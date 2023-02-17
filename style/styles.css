@@ -1,0 +1,36 @@
+* {
+    background-color: rgb(221, 255, 226);
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
+}
+
+
+ h1 {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 36px;
+    background-color: yellow;
+    text-align: center;
+}
+
+img {
+    width: 360px;
+    height: auto;
+}
+
+.first {
+    font-size: 18px;
+    color: rgb(110, 17, 33);
+    font-weight: 250;
+}
+
+.one {
+    font-family: 'segoe UI';
+}
+
+.two {
+    font-family: 'Gill Sans', 'Gill Sans MT';
+}
+
+.three {
+    font-family:'Times New Roman', Times, serif;
+}
