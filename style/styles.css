@@ -46,3 +46,7 @@ p .words {
 .pastahead {
     background-color: rgb(209, 135, 39);
 }
+
+.desc p {
+    color: darkslateblue;
+}
