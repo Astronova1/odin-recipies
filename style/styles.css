@@ -34,3 +34,11 @@ img {
 .three {
     font-family:'Times New Roman', Times, serif;
 }
+
+.mh {
+    background-color: rgb(102, 66, 66);
+}
+
+p .words {
+    color: orange;
+}
